@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Dias da Silva, tenho 27 Anos e sou natural de São Paulo. Sou um profissional que, após transitar por diferentes áreas, como Segurança do Trabalho e telecomunicações, encontrou sua verdadeira paixão na tecnologia.
+Me chamo Gustavo Dias da Silva, sou natural de São Paulo. Sou um profissional que, após transitar por diferentes áreas, como Segurança do Trabalho e telecomunicações, encontrou sua verdadeira paixão na tecnologia.
 
 <p align="left">
     <a href="https://github.com/Guhdev97?tab=repositories&sort=stargazers">
