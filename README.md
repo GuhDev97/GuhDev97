@@ -4,6 +4,10 @@
 
 Me chamo Gustavo Dias da Silva, sou natural de São Paulo. Sou um profissional que, após transitar por diferentes áreas, como Segurança do Trabalho e telecomunicações, encontrou sua verdadeira paixão na tecnologia.
 
+## Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavodias07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:gustaavvoo97@gmail.com) 
+
 <p align="left">
     <a href="https://github.com/Guhdev97?tab=repositories&sort=stargazers">
         <img 
