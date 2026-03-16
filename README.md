@@ -1,6 +1,6 @@
 # Gustavo Dias
 
-**`Desenvolvedor FullStack`**
+**`Futuro Desenvolvedor FullStack`**
 
 Me chamo Gustavo Dias da Silva, sou natural de São Paulo. Sou um profissional que, após transitar por diferentes áreas, como Segurança do Trabalho e telecomunicações, encontrou sua verdadeira paixão na tecnologia.
 
